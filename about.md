@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-<img class="col one right" style="margin-left:5%;" src="/img/prof_pic.jpg">
-
+<!--<img class="col one right" style="margin-left:3%;" src="/img/prof_pic.jpg">
+-->
 <br/>
 Hello! I am Hyewon, a full-stack developer.
 <br><br>
