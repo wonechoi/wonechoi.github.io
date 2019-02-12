@@ -6,5 +6,5 @@ title: resume
 ---
 
 <article class="post-content">
-	<div><a class="button" style="border: 2px solid #FF3636; padding:2px;" href="/docs/hw_choi.pdf">View in PDF</a></div>
+	<div><a class="button" style="border: 2px solid #FF3636; padding:10px;" href="/docs/hw_choi.pdf">View in PDF</a></div>
 </article>
