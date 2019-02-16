@@ -5,31 +5,38 @@ description: a project with a background image
 img: /img/2.jpg
 ---
 
-Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
+This survey is designed to gather information about how consumer preferences and behavior are changed.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so: 
+live link: <a href="http://choihyew.dev.fast.sheridanc.on.ca/nyu_survey_201811/pages/q1.php"> nyu_survey_201811</a>
 
 	---
-	layout: post
-	title: Project
-	description: a project with a background image
-	img: /img/12.jpg
+	Duration: November 2018
+	Languages: HTML, CSS, Javascript, JQuery, Bootstrap
+						PHP, MySQL
 	---
 
 
 <div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/1.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/2.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/3.jpg" alt="" title="example image"/>
+	<img class="col one" src="{{ site.baseurl }}/img/surveyPage1.jpg" alt="" title="First page"/>
+	<img class="col one" src="{{ site.baseurl }}/img/surveyPage2.jpg" alt="" title="Middle page"/>
+	<img class="col one" src="{{ site.baseurl }}/img/surveyPage3.jpg" alt="" title="End Page"/>
 </div>
 <div class="col three caption">
-	Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+	15+ different pages designed responsive to any screen sizes comprise the survey.<br>
+	To prevent from misuse or abuse of the survey, a session check a page a respondent should proceed and direct to only the page.<br>
+	Any responses, even when respondents quit in the middle of survey, are saved in MySQL databases to be analyzed. 
+</div>
+<br><br>
+<div class="img_row">
+	<img class="col three" src="{{ site.baseurl }}/img/surveyScn1.jpg" alt="" title="Scenario 1"/>
 </div>
 <div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/5.jpg" alt="" title="example image"/>
+	<img class="col three" src="{{ site.baseurl }}/img/surveyScn2.jpg" alt="" title="Scenario 2"/>
 </div>
 <div class="col three caption">
-	This image can also have a caption. It's like magic. 
+	5 scenarios per a survey are picked from random pool, with soft drinks arranged in random orders as well.<br>
+	A respondent add soft drinks to the shopping cart within a limit instructed in each questions.<br>
+	Inserting the data considers the order in which a respondent put them into the cart.	
 </div>
 
 You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.
