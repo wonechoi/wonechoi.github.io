@@ -27,10 +27,10 @@ live link: <a href="http://choihyew.dev.fast.sheridanc.on.ca/nyu_survey_201811/p
 	Any responses, even when respondents quit in the middle of survey, are saved in MySQL databases to be analyzed. 
 </div>
 <br><br>
-<div class="img_row">
+<div class="img_row" style="height:690px">
 	<img class="col three" src="{{ site.baseurl }}/img/surveyScn1.jpg" alt="" title="Scenario 1" style="height:680px"/>
 </div>
-<div class="img_row">
+<div class="img_row" style="height:690px">
 	<img class="col three" src="{{ site.baseurl }}/img/surveyScn2.jpg" alt="" title="Scenario 2" style="height:680px"/>
 </div>
 <div class="col three caption">
