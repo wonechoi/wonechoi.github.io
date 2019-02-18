@@ -31,7 +31,7 @@ live link: <a href="http://choihyew.dev.fast.sheridanc.on.ca/nyu_survey_201811/p
 	<img class="col three" src="{{ site.baseurl }}/img/surveyScn1.jpg" alt="" title="Scenario 1" style="height:680px"/>
 </div>
 <div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/surveyScn2.jpg" alt="" title="Scenario 2" style="height:680px"OB/>
+	<img class="col three" src="{{ site.baseurl }}/img/surveyScn2.jpg" alt="" title="Scenario 2" style="height:680px"/>
 </div>
 <div class="col three caption">
 	5 scenarios per a survey are picked from random pool, with soft drinks arranged in random orders as well.<br>
