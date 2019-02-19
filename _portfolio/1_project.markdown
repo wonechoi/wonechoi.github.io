@@ -1,55 +1,60 @@
 ---
 layout: post
-title: Project
-description: a project with a background image
-img: /img/12.jpg
+title: ShoesMore 
+description: a online store which sells shoes for all ages
+img: /img/ShoesMore/Main.jpg
 ---
 
-Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so: 
+An online shoes shopping mall with all the basic functions necessary for consumers and managers.
 
 	---
-	layout: post
-	title: Project
-	description: a project with a background image
-	img: /img/12.jpg
+	School Project
+	Languages: HTML, CSS, Javascript, Bootstrap / JSP, JAVA, Servlet, JDBC, MySQL
+	Features
+	- Consumer: sign up, login, purchase, check my information, edit my order
+	- Manager: add new items, edit price/sizes of registered items, check order list,
+		change status of orders
 	---
 
-
 <div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/1.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/2.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/3.jpg" alt="" title="example image"/>
+	<a href="{{ site.baseurl }}/img/ShoesMore/Signup.jpg" target="_blank"><img class="col one" style="width:45%" src="{{ site.baseurl }}/img/ShoesMore/Signup.jpg" alt="" title="Sign Up"/></a>
+	<a href="{{ site.baseurl }}/img/ShoesMore/Login.jpg" target="_blank"><img class="col one" style="width:45%"src="{{ site.baseurl }}/img/ShoesMore/Login.jpg" alt="" title="Login"/></a>
 </div>
 <div class="col three caption">
-	Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+	Sign up&Login functions by modal pages on main page.
 </div>
+<br><br><br>
 <div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/5.jpg" alt="" title="example image"/>
+	<a href="{{ site.baseurl }}/img/ShoesMore/ShoesWomen.jpg" target="_blank"><img class="col two" src="{{ site.baseurl }}/img/ShoesMore/ShoesWomen.jpg" alt="" title="Shoes for Women"/></a>
+	<a href="{{ site.baseurl }}/img/ShoesMore/ShoesMen.jpg" target="_blank"><img class="col one" src="{{ site.baseurl }}/img/ShoesMore/ShoesMen.jpg" alt="" title="Shoes for Men"/></a>
 </div>
 <div class="col three caption">
-	This image can also have a caption. It's like magic. 
+	Shopping pages for cosumers. Categories consist of Men, Women, and Kids. 
 </div>
-
-You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.
-
-
 <div class="img_row">
-	<img class="col two" src="{{ site.baseurl }}/img/6.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/11.jpg" alt="" title="example image"/>
+	<a href="{{ site.baseurl }}/img/ShoesMore/MyInfo.jpg" target="_blank"><img class="col three" style="width:100%; height:380px;" src="{{ site.baseurl }}/img/ShoesMore/MyInfo.jpg" alt="" title="My information page"/> </a>
 </div>
 <div class="col three caption">
-	You can also have artistically styled 2/3 + 1/3 images, like these.
+	My Information page for a customer
 </div>
 
+Users can make purchages from the sales page and check their orders on the MyInfo page.
+Not only that, they can change the size of the shoes you have already ordered unless the order has shipped.
+<br><br><br>
 
-<br/><br/><br/>
+<div class="img_row">
+	<a href="{{ site.baseurl }}/img/ShoesMore/ShoesList.jpg" target="_blank"><img class="col three" style="height:380px" src="{{ site.baseurl }}/img/ShoesMore/ShoesList.jpg" alt="" title="Shoes List"/></a>
+</div>
+<div class="col three caption">
+	Shoes list page for a manager
+</div>
+<div class="img_row">
+	<a href="{{ site.baseurl }}/img/ShoesMore/OrderList.jpg" target="_blank"><img class="col three" style="height:380px" src="{{ site.baseurl }}/img/ShoesMore/OrderList.jpg" alt="" title="Order List"/></a>
+</div>
+<div class="col three caption">
+	Order list page for a manager
+</div>
+Administrator can add new shoes to the sales list and modify existing lists including editing prices, sizes.
+On the order list page, orders can be deleted or changed status to "In-Progress", "Delivered", and else.
 
-
-The code is simple. Just add a col class to your image, and another class specifying the width: one, two, or three columns wide. Here's the code for the last row of images above: 
-
-	<div class="img_row">
-	  <img class="col two" src="/img/6.jpg"/>
-	  <img class="col one" src="/img/11.jpg"/>
-	</div>
+<br><br><br>
