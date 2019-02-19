@@ -24,14 +24,14 @@ An online shoes shopping mall with all the basic functions necessary for consume
 	Sign up&Login functions by modal pages on main page.
 </div>
 <br><br>
-<div class="img_row">
-	<a href="{{ site.baseurl }}/img/ShoesMore/ShoesWomen.jpg" target="_blank"><img class="col one" style="width:58%; height:350px;"  src="{{ site.baseurl }}/img/ShoesMore/ShoesWomen.jpg" alt="" title="Shoes for Women"/></a>
-	<a href="{{ site.baseurl }}/img/ShoesMore/ShoesMen.jpg" target="_blank"><img class="col one" style="width:37%; height:350px;" src="{{ site.baseurl }}/img/ShoesMore/ShoesMen.jpg" alt="" title="Shoes for Men"/></a>
+<div class="img_row" style="height:410px;">
+	<a href="{{ site.baseurl }}/img/ShoesMore/ShoesWomen.jpg" target="_blank"><img class="col one" style="width:58%; height:400px;"  src="{{ site.baseurl }}/img/ShoesMore/ShoesWomen.jpg" alt="" title="Shoes for Women"/></a>
+	<a href="{{ site.baseurl }}/img/ShoesMore/ShoesMen.jpg" target="_blank"><img class="col one" style="width:39%; height:400px;" src="{{ site.baseurl }}/img/ShoesMore/ShoesMen.jpg" alt="" title="Shoes for Men"/></a>
 </div>
 <div class="col three caption">
 	Shopping pages for cosumers. Categories consist of Men, Women, and Kids. 
 </div>
-<div class="img_row">
+<div class="img_row" style="height:410px;">
 	<a href="{{ site.baseurl }}/img/ShoesMore/MyInfo.jpg" target="_blank"><img class="col three" style="width:100%; height:400px;" src="{{ site.baseurl }}/img/ShoesMore/MyInfo.jpg" alt="" title="My information page"/> </a>
 </div>
 <div class="col three caption">
@@ -42,13 +42,13 @@ Users can make purchages from the sales page and check their orders on the MyInf
 Not only that, they can change the size of the shoes you have already ordered unless the order has shipped.
 <br><br>
 
-<div class="img_row">
+<div class="img_row" style="height:410px;">
 	<a href="{{ site.baseurl }}/img/ShoesMore/ShoesList.jpg" target="_blank"><img class="col three" style="height:400px" src="{{ site.baseurl }}/img/ShoesMore/ShoesList.jpg" alt="" title="Shoes List"/></a>
 </div>
 <div class="col three caption">
 	Shoes list page for a manager
 </div>
-<div class="img_row">
+<div class="img_row" style="height:410px;">
 	<a href="{{ site.baseurl }}/img/ShoesMore/OrderList.jpg" target="_blank"><img class="col three" style="height:400px" src="{{ site.baseurl }}/img/ShoesMore/OrderList.jpg" alt="" title="Order List"/></a>
 </div>
 <div class="col three caption">
