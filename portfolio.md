@@ -11,7 +11,7 @@ permalink: /portfolio/
     <div class="thumbnail">
         <a href="{{ project.redirect }}" target="_blank">
         {% if project.img %}
-        <img class="thumbnail" style="object-position: 50% 50%; object-fit: cover;"  src="{{ project.img }}"/>
+        <img class="thumbnail" style="width: 100%; height: 100%; position: static; object-fit: cover;"  src="{{ project.img }}"/>
         {% else %}
         <div class="thumbnail blankbox"></div>
         {% endif %}    
