@@ -24,9 +24,10 @@ live link: <a href="http://choihyew.dev.fast.sheridanc.on.ca/nyu_survey_201811/p
 <div class="col three caption" style="margin-bottom:5px">
 	15+ different pages designed responsive to any screen sizes comprise the survey.
 </div>
-	To prevent from misuse or abuse of the survey, a session check a page a respondent should proceed and direct to only the page.
-	Any responses, even when respondents quit in the middle of survey, are saved in MySQL databases to be analyzed. 
+<p>To prevent from misuse or abuse of the survey, a session check a page a respondent should proceed and direct to only the page.	Any responses, even when respondents quit in the middle of survey, are saved in MySQL databases to be analyzed. 
+</p>
 <br>
+
 <div class="img_row" style="height:680px">
 	<a href="{{ site.baseurl }}/img/Survey/surveyScn1.jpg" target="_blank"><img class="col three" src="{{ site.baseurl }}/img/Survey/surveyScn1.jpg" alt="" title="Scenario 1" style="height:680px"/></a>
 </div>
@@ -36,8 +37,9 @@ live link: <a href="http://choihyew.dev.fast.sheridanc.on.ca/nyu_survey_201811/p
 <div class="col three caption">
 	5 scenarios per a survey are picked from random pool, with soft drinks arranged in random orders as well.
 </div>
-	A respondent add soft drinks to the shopping cart within a limit instructed in each questions.
-	Inserting the data considers the order in which a respondent put them into the cart.	
-<br><br><br>
+<p>
+A respondent add soft drinks to the shopping cart within a limit instructed in each questions. Inserting the data considers the order in which a respondent put them into the cart.	
+</p>
+<br>
 
 
