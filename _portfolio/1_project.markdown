@@ -23,10 +23,10 @@ An online shoes shopping mall with all the basic functions necessary for consume
 <div class="col three caption">
 	Sign up&Login functions by modal pages on main page.
 </div>
-<br><br>
-<div class="img_row" style="height:410px;">
-	<a href="{{ site.baseurl }}/img/ShoesMore/ShoesWomen.jpg" target="_blank"><img class="col one" style="width:58%; height:400px;"  src="{{ site.baseurl }}/img/ShoesMore/ShoesWomen.jpg" alt="" title="Shoes for Women"/></a>
-	<a href="{{ site.baseurl }}/img/ShoesMore/ShoesMen.jpg" target="_blank"><img class="col one" style="width:39%; height:400px;" src="{{ site.baseurl }}/img/ShoesMore/ShoesMen.jpg" alt="" title="Shoes for Men"/></a>
+<br>
+<div class="img_row" style="height: 410px; overflow: hidden;">
+	<a href="{{ site.baseurl }}/img/ShoesMore/ShoesWomen.jpg" target="_blank"><img class="col one" style="object-fit: cover; width:62%; height:400px;"  src="{{ site.baseurl }}/img/ShoesMore/ShoesWomen.jpg" alt="" title="Shoes for Women"/></a>
+	<a href="{{ site.baseurl }}/img/ShoesMore/ShoesMen.jpg" target="_blank"><img class="col one" style="object-fit: cover; width:36%; height:400px;" src="{{ site.baseurl }}/img/ShoesMore/ShoesMen.jpg" alt="" title="Shoes for Men"/></a>
 </div>
 <div class="col three caption">
 	Shopping pages for cosumers. Categories consist of Men, Women, and Kids. 
@@ -40,7 +40,7 @@ An online shoes shopping mall with all the basic functions necessary for consume
 
 Users can make purchages from the sales page and check their orders on the MyInfo page.
 Not only that, they can change the size of the shoes you have already ordered unless the order has shipped.
-<br><br>
+<br>
 
 <div class="img_row" style="height:410px;">
 	<a href="{{ site.baseurl }}/img/ShoesMore/ShoesList.jpg" target="_blank"><img class="col three" style="height:400px" src="{{ site.baseurl }}/img/ShoesMore/ShoesList.jpg" alt="" title="Shoes List"/></a>
@@ -57,4 +57,4 @@ Not only that, they can change the size of the shoes you have already ordered un
 Administrator can add new shoes to the sales list and modify existing lists including editing prices, sizes.
 On the order list page, orders can be deleted or changed status to "In-Progress", "Delivered", and else.
 
-<br><br>
+<br>
