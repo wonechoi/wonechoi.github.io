@@ -8,10 +8,10 @@ permalink: /portfolio/
 
 {% if project.redirect %}
 <div class="project">
-    <div class="thumbnail" style="overflow:hidden;">
+    <div class="thumbnail">
         <a href="{{ project.redirect }}" target="_blank">
         {% if project.img %}
-        <img class="thumbnail" style="object-fit: cover;"  src="{{ project.img }}"/>
+        <img class="thumbnail" style="object-position: 50% 50%; object-fit: cover;"  src="{{ project.img }}"/>
         {% else %}
         <div class="thumbnail blankbox"></div>
         {% endif %}    
@@ -29,7 +29,7 @@ permalink: /portfolio/
     <div class="thumbnail">
         <a href="{{ site.baseurl }}{{ project.url }}">
         {% if project.img %}
-        <img class="thumbnail" src="{{ project.img }}"/>
+        <img class="thumbnail" style="object-fit: cover;" src="{{ project.img }}"/>
         {% else %}
         <div class="thumbnail blankbox"></div>
         {% endif %}    
