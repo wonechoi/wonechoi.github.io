@@ -2,7 +2,7 @@
 layout: post
 title: NYU Stern Survey
 description: A Survey about consumers in the soft drinks market
-img: /img/Survey/surveyPage3.jpg
+img: /img/Survey/surveyMain.jpg
 ---
 
 This survey is designed to gather information on how consumers' preferences and behaviors change as various senarios and the order of randomly placed beverages.
@@ -24,9 +24,9 @@ live link: <a href="http://choihyew.dev.fast.sheridanc.on.ca/nyu_survey_201811/p
 <div class="col three caption" style="margin-bottom:5px">
 	15+ different pages designed responsive to any screen sizes comprise the survey.
 </div>
-	To prevent from misuse or abuse of the survey, a session check a page a respondent should proceed and direct to only the page.<br>
+	To prevent from misuse or abuse of the survey, a session check a page a respondent should proceed and direct to only the page.
 	Any responses, even when respondents quit in the middle of survey, are saved in MySQL databases to be analyzed. 
-<br><br><br>
+<br>
 <div class="img_row" style="height:680px">
 	<a href="{{ site.baseurl }}/img/Survey/surveyScn1.jpg" target="_blank"><img class="col three" src="{{ site.baseurl }}/img/Survey/surveyScn1.jpg" alt="" title="Scenario 1" style="height:680px"/></a>
 </div>
@@ -36,7 +36,7 @@ live link: <a href="http://choihyew.dev.fast.sheridanc.on.ca/nyu_survey_201811/p
 <div class="col three caption">
 	5 scenarios per a survey are picked from random pool, with soft drinks arranged in random orders as well.
 </div>
-	A respondent add soft drinks to the shopping cart within a limit instructed in each questions.<br>
+	A respondent add soft drinks to the shopping cart within a limit instructed in each questions.
 	Inserting the data considers the order in which a respondent put them into the cart.	
 <br><br><br>
 
