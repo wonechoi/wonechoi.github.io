@@ -8,7 +8,7 @@ img: /img/ShoesMore/Main.jpg
 An online shoes shopping mall with all the basic functions necessary for consumers and managers.
 
 	---
-	School Project
+	The individual project in Enterprise Java Development class
 	Languages: HTML, CSS, Javascript, Bootstrap / JSP, JAVA, Servlet, JDBC, MySQL
 	Features
 	- Consumer: sign up, login, purchase, check my information, edit my order
@@ -32,7 +32,7 @@ An online shoes shopping mall with all the basic functions necessary for consume
 	Shopping pages for cosumers. Categories consist of Men, Women, and Kids. 
 </div>
 <div class="img_row" style="height:410px;">
-	<a href="{{ site.baseurl }}/img/ShoesMore/MyInfo.jpg" target="_blank"><img class="col three" style="width:100%; height:400px;" src="{{ site.baseurl }}/img/ShoesMore/MyInfo.jpg" alt="" title="My information page"/> </a>
+	<a href="{{ site.baseurl }}/img/ShoesMore/MyInfo.jpg" target="_blank"><img class="col three" style="height:400px;" src="{{ site.baseurl }}/img/ShoesMore/MyInfo.jpg" alt="" title="My information page"/> </a>
 </div>
 <div class="col three caption">
 	My Information page for a customer
