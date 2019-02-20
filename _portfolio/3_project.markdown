@@ -7,7 +7,8 @@ img: /img/GamePack/Main.jpg
 
 Casino Craps, TicTacToe, Pick A Pair, HangMan, and ColorPicker.
 
-live link: <a href="http://choihyew.dev.fast.sheridanc.on.ca/GamePack/" target="_blank"> Game Pack</a>, <a href="http://choihyew.dev.fast.sheridanc.on.ca/nyu_survey_201811/pages/q1.php" target="_blank"> ColorPicker</a>
+live link: <a href="http://choihyew.dev.fast.sheridanc.on.ca/GamePack/" target="_blank"> Game Pack</a> <br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://choihyew.dev.fast.sheridanc.on.ca/RGBGuessingGame/ColorGame.html" target="_blank"> RGB Guessing Game</a>
 
 	---
 	The individual project in Web Programming class 
@@ -20,8 +21,8 @@ live link: <a href="http://choihyew.dev.fast.sheridanc.on.ca/GamePack/" target="
 	- RGB guessing game: A guessing game in which a player select the color that they think matches the RGB value listed in the title above.
 	---
 
-<div class="img_row" style="height:360px">
-	<a href="{{ site.baseurl }}/img/GamePack/CasinoCraps.jpg" target="_blank"><img class="col three" src="{{ site.baseurl }}/img/GamePack/CasinoCraps.jpg" alt="" title="CasinoCraps"/></a>
+<div class="img_row" style="height:380px">
+	<a href="{{ site.baseurl }}/img/GamePack/CasinoCraps.jpg" target="_blank"><img class="col three" style="height:400px" src="{{ site.baseurl }}/img/GamePack/CasinoCraps.jpg" alt="" title="CasinoCraps"/></a>
 </div>
 <div class="col three caption">
 	Casino Craps
@@ -30,8 +31,8 @@ The player can roll dices to make the "natural", or win after getting the "point
 <br>
 
 <div class="img_row" style="height:360px">
-	<a href="{{ site.baseurl }}/img/GamePack/TicTacToe1.jpg" target="_blank"><img class="col one" style="width:50%" src="{{ site.baseurl }}/img/GamePack/TicTacToe1.jpg" alt="" title="TicTacToe1"/></a>
-	<a href="{{ site.baseurl }}/img/GamePack/TicTacToe2.jpg" target="_blank"><img class="col one" style="width:50%" src="{{ site.baseurl }}/img/GamePack/TicTacToe2.jpg" alt="" title="TicTacToe2"/></a>
+	<a href="{{ site.baseurl }}/img/GamePack/TicTacToe1.jpg" target="_blank"><img class="col one" style="width:50% height:360px" src="{{ site.baseurl }}/img/GamePack/TicTacToe1.jpg" alt="" title="TicTacToe1"/></a>
+	<a href="{{ site.baseurl }}/img/GamePack/TicTacToe2.jpg" target="_blank"><img class="col one" style="width:50% height:360px" src="{{ site.baseurl }}/img/GamePack/TicTacToe2.jpg" alt="" title="TicTacToe2"/></a>
 </div>
 <div class="col three caption">
 	TicTacToe
@@ -40,8 +41,8 @@ Two players take turns marking X and O in a 3*3 grid. The player who succeeds in
 <br>
 
 <div class="img_row" style="height:360px">
-	<a href="{{ site.baseurl }}/img/GamePack/PickAPair1.jpg" target="_blank"><img class="col one" style="width:50%" src="{{ site.baseurl }}/img/GamePack/PickAPair1.jpg" alt="" title="PickAPair1"/></a>
-	<a href="{{ site.baseurl }}/img/GamePack/PickAPair2.jpg" target="_blank"><img class="col one" style="width:50%" src="{{ site.baseurl }}/img/GamePack/PickAPair2.jpg" alt="" title="PickAPair2"/></a>
+	<a href="{{ site.baseurl }}/img/GamePack/PickAPair1.jpg" target="_blank"><img class="col one" style="width:50% height:360px" src="{{ site.baseurl }}/img/GamePack/PickAPair1.jpg" alt="" title="PickAPair1"/></a>
+	<a href="{{ site.baseurl }}/img/GamePack/PickAPair2.jpg" target="_blank"><img class="col one" style="width:50% height:360px" src="{{ site.baseurl }}/img/GamePack/PickAPair2.jpg" alt="" title="PickAPair2"/></a>
 </div>
 <div class="col three caption">
 	Pick A Pair
@@ -49,8 +50,8 @@ Two players take turns marking X and O in a 3*3 grid. The player who succeeds in
 A player is given 10 secs to memorize the cards before starting a game. The plaing time is shown on right side on menu bar. 
 <br>
 
-<div class="img_row" style="height:360px">
-	<a href="{{ site.baseurl }}/img/GamePack/HangMan.jpg" target="_blank"><img class="col three" src="{{ site.baseurl }}/img/GamePack/HangMan.jpg" alt="" title="HangMan"/></a>
+<div class="img_row" style="height:380px">
+	<a href="{{ site.baseurl }}/img/GamePack/HangMan.jpg" target="_blank"><img class="col three" style="height:380px" src="{{ site.baseurl }}/img/GamePack/HangMan.jpg" alt="" title="HangMan"/></a>
 </div>
 <div class="col three caption">
 	Hang Man
@@ -58,8 +59,8 @@ A player is given 10 secs to memorize the cards before starting a game. The plai
 A player must guess a word by suggesting letters, within 10 lives. If the chances run out, The player hangs.
 <br>
 
-<div class="img_row" style="height:360px">
-	<a href="{{ site.baseurl }}/img/GamePack/ColorPicker.jpg" target="_blank"><img class="col three" src="{{ site.baseurl }}/img/GamePack/ColorPicker.jpg" alt="" title="ColorPicker"/></a>
+<div class="img_row" style="height:380px">
+	<a href="{{ site.baseurl }}/img/GamePack/ColorPicker.jpg" target="_blank"><img class="col three" style="height:380px" src="{{ site.baseurl }}/img/GamePack/ColorPicker.jpg" alt="" title="ColorPicker"/></a>
 </div>
 <div class="col three caption">
 	RGB guessing game
