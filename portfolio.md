@@ -47,9 +47,9 @@ permalink: /portfolio/
 {% endfor %}
 <br/>
 <br/>
-<hr/>
-<br/>
 <span class="contacticon center">
+<hr>
+<br>
 	<a href="mailto:wone.choi.0401@google.com"><i class="fa fa-envelope-square"></i></a>
 	<a href="https://github.com/wonechoi" target="_blank"><i class="fa fa-github-square"></i></a>
 	<a href="https://www.linkedin.com/in/hyewon-choi-519bb8177/" target="_blank"><i class="fa fa-linkedin-square"></i></a>
