@@ -11,6 +11,9 @@ title: Resume
 
 <hr/>
 <br/>
+<br/>
+<br/>
+<br/>
 <span class="contacticon center">
 	<a href="mailto:wone.choi.0401@google.com"><i class="fa fa-envelope-square"></i></a>
 	<a href="https://github.com/wonechoi" target="_blank"><i class="fa fa-github-square"></i></a>
