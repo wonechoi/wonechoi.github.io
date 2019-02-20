@@ -1,55 +1,54 @@
 ---
 layout: post
-title: Project
-description: another without an image
-img: 
+title: BeerMore
+description: A Mobile shop of a beer store  
+img: /img/BeerMore/Main.jpg 
 ---
 
-Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so: 
+A Mobile shop sells various kind of beers.  
 
 	---
-	layout: post
-	title: Project
-	description: a project with a background image
-	img: /img/12.jpg
+	The team project in Mobile Web-Based Application Development class
+	Languages: HTML, CSS, Javascript, Bootstrap, JQuery Mobile, Ajax, Json, google map API
+	Features: Shopping, Cart check out, My order list
 	---
 
-
-<div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/1.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/2.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/3.jpg" alt="" title="example image"/>
+<div class="img_row" style="height:460px;">
+	<a href="{{ site.baseurl }}/img/BeerMore/Main1.jpg" target="_blank"><img class="col one" style="height:460px; object-fit:contain;" src="{{ site.baseurl }}/img/BeerMore/Main1.jpg" alt="" title="Main1"/></a>
+	<a href="{{ site.baseurl }}/img/BeerMore/Main2.jpg" target="_blank"><img class="col one" style="height:460px; object-fit:contain;" src="{{ site.baseurl }}/img/BeerMore/Main2.jpg" alt="" title="Main2"/></a>
+	<a href="{{ site.baseurl }}/img/BeerMore/About.jpg" target="_blank"><img class="col one" style="height:460px; object-fit:contain;" src="{{ site.baseurl }}/img/BeerMore/About.jpg" alt="" title="About"/></a>
 </div>
 <div class="col three caption">
-	Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+	Main page and About page
 </div>
-<div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/5.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	This image can also have a caption. It's like magic. 
-</div>
+Main page illustrates the catchphrase and the location of the offline shop. About page explains about the brand.
+<br>
 
-You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.
-
-
-<div class="img_row">
-	<img class="col two" src="{{ site.baseurl }}/img/6.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/11.jpg" alt="" title="example image"/>
+<div class="img_row" style="height: 460px">
+	<a href="{{ site.baseurl }}/img/BeerMore/Shop1.jpg" target="_blank"><img class="col one" style="width:50%; height:460px; object-fit:contain;" src="{{ site.baseurl }}/img/BeerMore/Shop1.jpg" alt="" title="Shop1"/></a>
+	<a href="{{ site.baseurl }}/img/BeerMore/Shop2.jpg" target="_blank"><img class="col one" style="width:50%; height:460px; object-fit:contain;" src="{{ site.baseurl }}/img/BeerMore/Shop2.jpg" alt="" title="Shop2"/></a>
 </div>
 <div class="col three caption">
-	You can also have artistically styled 2/3 + 1/3 images, like these.
+	Shopping pages 
 </div>
+There are three subcategories of beer type. A customer can add items to their cart by just tapping beer on screen. The number on cart icon shows the number of beers which a customer have chosen.
+<br>
 
+<div class="img_row" style="height: 460px">
+	<a href="{{ site.baseurl }}/img/BeerMore/Cart1.jpg" target="_blank"><img class="col one" style="width:50%; height:460px; object-fit:contain;" src="{{ site.baseurl }}/img/BeerMore/Cart1.jpg" alt="" title="Cart1"/></a>
+	<a href="{{ site.baseurl }}/img/BeerMore/Cart2.jpg" target="_blank"><img class="col one" style="width:50%; height:460px; object-fit:contain;" src="{{ site.baseurl }}/img/BeerMore/Cart2.jpg" alt="" title="Cart2"/></a>
+</div>
+<div class="col three caption">
+	Cart page
+</div>
+The mobile store provides the cart function. Before checkout, customers can adjust quantities of each of beers
+<br>
 
-<br/><br/><br/>
-
-
-The code is simple. Just add a col class to your image, and another class specifying the width: one, two, or three columns wide. Here's the code for the last row of images above: 
-
-	<div class="img_row">
-	  <img class="col two" src="/img/6.jpg"/>
-	  <img class="col one" src="/img/11.jpg"/>
-	</div>
+<div class="img_row" style="height: 460px">
+	<a href="{{ site.baseurl }}/img/BeerMore/MyOrder.jpg" target="_blank"><img class="col three" style="width:50%; height:460px; object-fit:contain;" src="{{ site.baseurl }}/img/BeerMore/MyOrder.jpg" alt="" title="MyOrder"/></a>
+</div>
+<div class="col three caption">
+	My order page
+</div>
+My order page shows each customer's order information. By clicking red "Order details", a customer can see beer list they ordered.
+<br>

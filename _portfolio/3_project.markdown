@@ -8,7 +8,7 @@ img: /img/GamePack/Main.jpg
 Casino Craps, TicTacToe, Pick A Pair, HangMan, and ColorPicker.
 
 live link: <a href="http://choihyew.dev.fast.sheridanc.on.ca/GamePack/" target="_blank"> Game Pack</a> <br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://choihyew.dev.fast.sheridanc.on.ca/RGBGuessingGame/ColorGame.html" target="_blank"> RGB Guessing Game</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://choihyew.dev.fast.sheridanc.on.ca/RGBGuessingGame/ColorGame.html" target="_blank"> RGB Guessing Game</a>
 
 	---
 	The individual project in Web Programming class 
