@@ -1,6 +1,6 @@
 ---
 layout: page
-title: portfolio
+title: Portfolio
 permalink: /portfolio/
 ---
 
@@ -45,3 +45,15 @@ permalink: /portfolio/
 {% endif %}
 
 {% endfor %}
+
+<hr/>
+<br/>
+<span class="contacticon center">
+	<a href="mailto:wone.choi.0401@google.com"><i class="fa fa-envelope-square"></i></a>
+	<a href="https://github.com/wonechoi" target="_blank"><i class="fa fa-github-square"></i></a>
+	<a href="https://www.linkedin.com/in/hyewon-choi-519bb8177/" target="_blank"><i class="fa fa-linkedin-square"></i></a>
+</span>
+
+<div class="col three caption">
+	&copy; HYEWON CHOI
+</div>
