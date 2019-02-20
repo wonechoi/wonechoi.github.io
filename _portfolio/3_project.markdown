@@ -20,7 +20,7 @@ live link: <a href="http://choihyew.dev.fast.sheridanc.on.ca/GamePack/" target="
 	- RGB guessing game: A guessing game in which a player select the color that they think matches the RGB value listed in the title above.
 	---
 
-<div class="img_row">
+<div class="img_row" style="height:360px">
 	<a href="{{ site.baseurl }}/img/GamePack/CasinoCraps.jpg" target="_blank"><img class="col three" src="{{ site.baseurl }}/img/GamePack/CasinoCraps.jpg" alt="" title="CasinoCraps"/></a>
 </div>
 <div class="col three caption">
@@ -29,7 +29,7 @@ live link: <a href="http://choihyew.dev.fast.sheridanc.on.ca/GamePack/" target="
 The player can roll dices to make the "natural", or win after getting the "point". 
 <br>
 
-<div class="img_row">
+<div class="img_row" style="height:360px">
 	<a href="{{ site.baseurl }}/img/GamePack/TicTacToe1.jpg" target="_blank"><img class="col one" style="width:50%" src="{{ site.baseurl }}/img/GamePack/TicTacToe1.jpg" alt="" title="TicTacToe1"/></a>
 	<a href="{{ site.baseurl }}/img/GamePack/TicTacToe2.jpg" target="_blank"><img class="col one" style="width:50%" src="{{ site.baseurl }}/img/GamePack/TicTacToe2.jpg" alt="" title="TicTacToe2"/></a>
 </div>
@@ -39,7 +39,7 @@ The player can roll dices to make the "natural", or win after getting the "point
 Two players take turns marking X and O in a 3*3 grid. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins the game. The result will be shown on right side on menu bar. If nobody can make it, the game is a draw.
 <br>
 
-<div class="img_row">
+<div class="img_row" style="height:360px">
 	<a href="{{ site.baseurl }}/img/GamePack/PickAPair1.jpg" target="_blank"><img class="col one" style="width:50%" src="{{ site.baseurl }}/img/GamePack/PickAPair1.jpg" alt="" title="PickAPair1"/></a>
 	<a href="{{ site.baseurl }}/img/GamePack/PickAPair2.jpg" target="_blank"><img class="col one" style="width:50%" src="{{ site.baseurl }}/img/GamePack/PickAPair2.jpg" alt="" title="PickAPair2"/></a>
 </div>
@@ -49,7 +49,7 @@ Two players take turns marking X and O in a 3*3 grid. The player who succeeds in
 A player is given 10 secs to memorize the cards before starting a game. The plaing time is shown on right side on menu bar. 
 <br>
 
-<div class="img_row">
+<div class="img_row" style="height:360px">
 	<a href="{{ site.baseurl }}/img/GamePack/HangMan.jpg" target="_blank"><img class="col three" src="{{ site.baseurl }}/img/GamePack/HangMan.jpg" alt="" title="HangMan"/></a>
 </div>
 <div class="col three caption">
@@ -58,7 +58,7 @@ A player is given 10 secs to memorize the cards before starting a game. The plai
 A player must guess a word by suggesting letters, within 10 lives. If the chances run out, The player hangs.
 <br>
 
-<div class="img_row">
+<div class="img_row" style="height:360px">
 	<a href="{{ site.baseurl }}/img/GamePack/ColorPicker.jpg" target="_blank"><img class="col three" src="{{ site.baseurl }}/img/GamePack/ColorPicker.jpg" alt="" title="ColorPicker"/></a>
 </div>
 <div class="col three caption">
