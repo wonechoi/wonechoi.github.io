@@ -31,8 +31,8 @@ The player can roll dices to make the "natural", or win after getting the "point
 <br>
 
 <div class="img_row" style="height:360px">
-	<a href="{{ site.baseurl }}/img/GamePack/TicTacToe1.jpg" target="_blank"><img class="col one" style="width:50% height:360px" src="{{ site.baseurl }}/img/GamePack/TicTacToe1.jpg" alt="" title="TicTacToe1"/></a>
-	<a href="{{ site.baseurl }}/img/GamePack/TicTacToe2.jpg" target="_blank"><img class="col one" style="width:50% height:360px" src="{{ site.baseurl }}/img/GamePack/TicTacToe2.jpg" alt="" title="TicTacToe2"/></a>
+	<a href="{{ site.baseurl }}/img/GamePack/TicTacToe1.jpg" target="_blank"><img class="col one" style="width:50%; height:360px" src="{{ site.baseurl }}/img/GamePack/TicTacToe1.jpg" alt="" title="TicTacToe1"/></a>
+	<a href="{{ site.baseurl }}/img/GamePack/TicTacToe2.jpg" target="_blank"><img class="col one" style="width:50%; height:360px" src="{{ site.baseurl }}/img/GamePack/TicTacToe2.jpg" alt="" title="TicTacToe2"/></a>
 </div>
 <div class="col three caption">
 	TicTacToe
@@ -41,8 +41,8 @@ Two players take turns marking X and O in a 3*3 grid. The player who succeeds in
 <br>
 
 <div class="img_row" style="height:360px">
-	<a href="{{ site.baseurl }}/img/GamePack/PickAPair1.jpg" target="_blank"><img class="col one" style="width:50% height:360px" src="{{ site.baseurl }}/img/GamePack/PickAPair1.jpg" alt="" title="PickAPair1"/></a>
-	<a href="{{ site.baseurl }}/img/GamePack/PickAPair2.jpg" target="_blank"><img class="col one" style="width:50% height:360px" src="{{ site.baseurl }}/img/GamePack/PickAPair2.jpg" alt="" title="PickAPair2"/></a>
+	<a href="{{ site.baseurl }}/img/GamePack/PickAPair1.jpg" target="_blank"><img class="col one" style="width:50%; height:360px" src="{{ site.baseurl }}/img/GamePack/PickAPair1.jpg" alt="" title="PickAPair1"/></a>
+	<a href="{{ site.baseurl }}/img/GamePack/PickAPair2.jpg" target="_blank"><img class="col one" style="width:50%; height:360px" src="{{ site.baseurl }}/img/GamePack/PickAPair2.jpg" alt="" title="PickAPair2"/></a>
 </div>
 <div class="col three caption">
 	Pick A Pair
