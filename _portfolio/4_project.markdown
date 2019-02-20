@@ -5,7 +5,8 @@ description: A Mobile shop of a beer store
 img: /img/BeerMore/Main.jpg 
 ---
 
-A Mobile shop sells various kind of beers.  <br>
+A Mobile shop sells various kind of beers. 
+
 live link: <a href="http://choihyew.dev.fast.sheridanc.on.ca/Beer%20Store/beerstore.html" target="_blank"> BeerMore </a>
 
 	---
