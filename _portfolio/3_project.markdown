@@ -36,7 +36,7 @@ The player can roll dices to make the "natural", or win after getting the "point
 <div class="col three caption">
 	TicTacToe
 </div>
-Two players take turns marking X and O in a 3*3 grid. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins the game. The result will be shown on right side on menu bar.
+Two players take turns marking X and O in a 3*3 grid. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins the game. The result will be shown on right side on menu bar. If nobody can make it, the game is a draw.
 <br>
 
 <div class="img_row" style="height: 410px; overflow: hidden;">
@@ -50,8 +50,8 @@ A player is given 10 secs to memorize the cards before starting a game. The plai
 <br>
 
 <div class="img_row" style="height: 410px; overflow: hidden;">
-	<a href="{{ site.baseurl }}/img/GamePack/HangMan1.jpg" target="_blank"><img class="col one" style="width:50%" src="{{ site.baseurl }}/img/GamePack/HangMan1.jpg" alt="" title="HangMan1"/></a>
-	<a href="{{ site.baseurl }}/img/GamePack/HangMan2.jpg" target="_blank"><img class="col one" style="width:50%" src="{{ site.baseurl }}/img/GamePack/HangMan2.jpg" alt="" title="HangMan2"/></a>
+	<a href="{{ site.baseurl }}/img/GamePack/HangMan1.jpg" target="_blank"><img class="col one" src="{{ site.baseurl }}/img/GamePack/HangMan1.jpg" alt="" title="HangMan1"/></a>
+	<a href="{{ site.baseurl }}/img/GamePack/HangMan2.jpg" target="_blank"><img class="col two" src="{{ site.baseurl }}/img/GamePack/HangMan2.jpg" alt="" title="HangMan2"/></a>
 </div>
 <div class="col three caption">
 	Hang Man
