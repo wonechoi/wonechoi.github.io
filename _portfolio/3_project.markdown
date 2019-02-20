@@ -1,56 +1,65 @@
 ---
 layout: post
-title: Project
-description: a project that redirects to another website
-img:
-redirect: https://unsplash.com
+title: Game Pack 
+description: Five different single play games
+img: /img/GamePack/Main.jpg
 ---
 
-Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
+Casino Craps, TicTacToe, Pick A Pair, HangMan, and ColorPicker.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so: 
+live link: <a href="http://choihyew.dev.fast.sheridanc.on.ca/nyu_survey_201811/pages/q1.php" target="_blank"> Game Pack</a>, <a href="http://choihyew.dev.fast.sheridanc.on.ca/nyu_survey_201811/pages/q1.php" target="_blank"> ColorPicker</a>
 
 	---
-	layout: post
-	title: Project
-	description: a project with a background image
-	img: /img/12.jpg
+	The individual project in Web Programming class 
+	Languages: HTML, CSS, Javascript, Bootstrap
+	Features
+	- Casino Craps: A dice game in which the player makes wagers on the outcome of the couples of rolls.
+	- TicTacToe: A player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins the game in a 3*3 grid.
+	- Pick A Pair: A memory game in shich the player turns over pairs of matching cards. 
+	- HangMan: A player must guess a secret word before they hang.
+	- ColorPicker: A guessing game in which a player select the color that they think matches the RGB value listed in the title above.
 	---
 
-
-<div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/1.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/2.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/3.jpg" alt="" title="example image"/>
+<div class="img_row" style="height:410px;">
+	<a href="{{ site.baseurl }}/img/GamePack/CasinoCraps.jpg" target="_blank"><img class="col three" style="height:410px;" src="{{ site.baseurl }}/img/GamePack/CasinoCraps.jpg" alt="" title="CasinoCraps"/></a>
 </div>
 <div class="col three caption">
-	Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+	The player can roll dices to make the "natural", or win after getting the "point". 
 </div>
-<div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/5.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	This image can also have a caption. It's like magic. 
-</div>
+<br>
 
-You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.
-
-
-<div class="img_row">
-	<img class="col two" src="{{ site.baseurl }}/img/6.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/11.jpg" alt="" title="example image"/>
+<div class="img_row" style="height: 410px; overflow: hidden;">
+	<a href="{{ site.baseurl }}/img/GamePack/TicTacToe1.jpg" target="_blank"><img class="col one" style="width:47%" src="{{ site.baseurl }}/img/GamePack/TicTacToe1.jpg" alt="" title="TicTacToe1"/></a>
+	<a href="{{ site.baseurl }}/img/GamePack/TicTacToe2.jpg" target="_blank"><img class="col one" style="width:47%" src="{{ site.baseurl }}/img/GamePack/TicTacToe2.jpg" alt="" title="TicTacToe2"/></a>
 </div>
 <div class="col three caption">
-	You can also have artistically styled 2/3 + 1/3 images, like these.
+	Two players take turns marking X and O in a 3*3 grid. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins the game. The result will be shown on right side on menu bar.
 </div>
+<br>
 
+<div class="img_row" style="height: 410px; overflow: hidden;">
+	<a href="{{ site.baseurl }}/img/GamePack/PickAPair1.jpg" target="_blank"><img class="col one" style="width:47%" src="{{ site.baseurl }}/img/GamePack/PickAPair1.jpg" alt="" title="PickAPair1"/></a>
+	<a href="{{ site.baseurl }}/img/GamePack/PickAPair2.jpg" target="_blank"><img class="col one" style="width:47%" src="{{ site.baseurl }}/img/GamePack/PickAPair2.jpg" alt="" title="PickAPair2"/></a>
+</div>
+<div class="col three caption">
+	A player is given 10 secs to memorize the cards before starting a game. The plaing time is shown on right side on menu bar. 
+</div>
+<br>
 
-<br/><br/><br/>
+<div class="img_row" style="height: 410px; overflow: hidden;">
+	<a href="{{ site.baseurl }}/img/GamePack/HangMan1.jpg" target="_blank"><img class="col one" style="width:47%" src="{{ site.baseurl }}/img/GamePack/HangMan1.jpg" alt="" title="HangMan1"/></a>
+	<a href="{{ site.baseurl }}/img/GamePack/HangMan2.jpg" target="_blank"><img class="col one" style="width:47%" src="{{ site.baseurl }}/img/GamePack/HangMan2.jpg" alt="" title="HangMan2"/></a>
+</div>
+<div class="col three caption">
+	A player must guess a word by suggesting letters, within 10 lives. If the chances run out, The player hangs.
+</div>
+<br>
 
-
-The code is simple. Just add a col class to your image, and another class specifying the width: one, two, or three columns wide. Here's the code for the last row of images above: 
-
-	<div class="img_row">
-	  <img class="col two" src="/img/6.jpg"/>
-	  <img class="col one" src="/img/11.jpg"/>
-	</div>
+<div class="img_row" style="height: 410px; overflow: hidden;">
+	<a href="{{ site.baseurl }}/img/GamePack/ColorPicker.jpg" target="_blank"><img class="col one" style="object-fit: cover; width:62%; height:400px;"  src="{{ site.baseurl }}/img/GamePack/ColorPicker.jpg" alt="" title="ColorPicker"/></a>
+	<a href="{{ site.baseurl }}/img/GamePack/ColorPicker.jpg" target="_blank"><img class="col one" style="object-fit: cover; width:36%; height:400px;" src="{{ site.baseurl }}/img/GamePack/ColorPicker.jpg" alt="" title="ColorPicker"/></a>
+</div>
+<div class="col three caption">
+	A player tries to guess the right color for the RGB code shown above. There are two difficulty levels in the game: Easy and Hard. The easy mode shows three options while the hard mode has six options. 
+</div>
+<br>
