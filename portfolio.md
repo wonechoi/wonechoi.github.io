@@ -45,11 +45,9 @@ permalink: /portfolio/
 {% endif %}
 
 {% endfor %}
-
+<br/>
+<br/>
 <hr/>
-<br/>
-<br/>
-<br/>
 <br/>
 <span class="contacticon center">
 	<a href="mailto:wone.choi.0401@google.com"><i class="fa fa-envelope-square"></i></a>

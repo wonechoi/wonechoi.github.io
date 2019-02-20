@@ -9,10 +9,9 @@ title: Resume
 	<div><a class="button" style="border: 2px solid #FF3636; padding:10px;" href="/docs/hw_choi.pdf">View in PDF</a></div>
 </article>
 
+<br/>
+<br/>
 <hr/>
-<br/>
-<br/>
-<br/>
 <br/>
 <span class="contacticon center">
 	<a href="mailto:wone.choi.0401@google.com"><i class="fa fa-envelope-square"></i></a>
