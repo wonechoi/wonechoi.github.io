@@ -5,7 +5,7 @@ description: A Mobile shop of a beer store
 img: /img/BeerMore/Main.jpg 
 ---
 
-A Mobile shop sells various kind of beers.  
+A Mobile shop sells various kind of beers.  <br>
 live link: <a href="http://choihyew.dev.fast.sheridanc.on.ca/Beer%20Store/beerstore.html" target="_blank"> BeerMore </a>
 
 	---
@@ -46,7 +46,7 @@ The mobile store provides the cart function. Before checkout, customers can adju
 <br>
 
 <div class="img_row" style="height: 460px; vertical-align:middle; text-align:center">
-	<a href="{{ site.baseurl }}/img/BeerMore/MyOrder.jpg" target="_blank"><img class="col three" style="width:50%; height:460px; object-fit:contain; margin-left:auto; margin-right:auto;" src="{{ site.baseurl }}/img/BeerMore/MyOrder.jpg" alt="" title="MyOrder"/></a>
+	<a href="{{ site.baseurl }}/img/BeerMore/MyOrder.jpg" target="_blank"><img class="col three" style="width:50%; height:460px; object-fit:contain; float:initial; margin-left:auto; margin-right:auto;" src="{{ site.baseurl }}/img/BeerMore/MyOrder.jpg" alt="" title="MyOrder"/></a>
 </div>
 <div class="col three caption">
 	My order page
