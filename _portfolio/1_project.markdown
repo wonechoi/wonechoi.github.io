@@ -5,7 +5,7 @@ description: a online store which sells shoes for all ages
 img: /img/ShoesMore/Main.jpg
 ---
 
-An online shoes shopping mall with all the basic functions necessary for consumers and managers.
+An online shoe store with all the basic functions necessary for consumers and managers.
 
 	---
 	The individual project in Enterprise Java Development class
@@ -38,8 +38,8 @@ An online shoes shopping mall with all the basic functions necessary for consume
 	My Information page for a customer
 </div>
 
-Users can make purchages from the sales page and check their orders on the MyInfo page.
-Not only that, they can change the size of the shoes you have already ordered unless the order has shipped.
+Users can make purchases from the sales page and check their orders on the MyInfo page.
+Not only that, they can change the size of the shoes you have already ordered before the order has shipped.
 <br>
 
 <div class="img_row" style="height:410px;">
@@ -54,7 +54,7 @@ Not only that, they can change the size of the shoes you have already ordered un
 <div class="col three caption">
 	Order list page for a manager
 </div>
-Administrator can add new shoes to the sales list and modify existing lists including editing prices, sizes.
-On the order list page, orders can be deleted or changed status to "In-Progress", "Delivered", and else.
+Administrators can add new shoes to the sales list and modify existing lists including editing prices and sizes.
+On the order list page, orders can be deleted or changed status to "In-Progress", "Delivered", or anything else.
 
 <br>

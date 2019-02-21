@@ -9,14 +9,14 @@ permalink: /about/
 <br/>
 Hello! I am Hyewon, a full-stack developer.
 <br><br>
-I originated from Seoul, South Korea in the far west. Now I live in Oakville, one of GTA (Great Toronto Area). I moved from Seoul to here not only for broadening my professional experience but for expanding my cultural horizons.
+I originated from Seoul, South Korea in the far west. Now I live in Oakville, in th GsTA (Great Toronto Area). I moved from Seoul to here not only for broadening my professional experience but for expanding my cultural horizons.
 <br><br>
-I have 3+ years' experience working as a full-stack developer.
-Currently, I study Computer technician at Sheridan College. By focusing on my majors here again, not only I regained my programming skills but also I could have many opportunities to exchange opinions in English about IT field.  
+I have 3+ years experience working as a full-stack developer.
+Currently, I study Computer technician at Sheridan College. By focusing on my majors here again, not only did I regain my programming skills but also I could have many opportunities to exchange opinions in English about the IT field.  
 <br><br>
-Since I have always been a passionate problem solver, working as a developer is a lot of fun. Especially, I love to work as a team with others. It makes me feel engaged at the work, energized, and motivated to do better. 
+Since I have always been a passionate problem solver, working as a developer is a lot of fun. Especially, I love to work as a team with others. It makes me feel engaged in my work, energized, and motivated to do better. 
 <br><br>
-Outside of my job, you will find me a traveler roamed about the world. I have visited over 30 countries. I got a more open-mided person. It's always amazing to expose myself to new places, food, and cultures.
+Outside of my job, you will find me a traveler roaming about the world. I have visited over 30 countries. I have become a more open-mided person. It's always amazing to expose myself to new places, food, and cultures.
 <br><br>
 If you want to know more about me, feel free to contact me!
 

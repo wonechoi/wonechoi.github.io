@@ -14,11 +14,11 @@ live link: <a href="http://choihyew.dev.fast.sheridanc.on.ca/GamePack/" target="
 	The individual project in Web Programming class 
 	Languages: HTML, CSS, Javascript, Bootstrap
 	Features
-	- Casino Craps: A dice game in which the player makes wagers on the outcome of the couples of rolls.
+	- Casino Craps: A dice game in which the player makes wagers on the outcome of the couple of rolls.
 	- TicTacToe: A player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins the game in a 3*3 grid.
-	- Pick A Pair: A memory game in shich the player turns over pairs of matching cards. 
-	- HangMan: A player must guess a secret word before they hang.
-	- RGB guessing game: A guessing game in which a player select the color that they think matches the RGB value listed in the title above.
+	- Pick A Pair: A memory game in which the player turns over pairs of matching cards. 
+	- HangMan: A player must guess a secret word before the hangman is hung.
+	- RGB guessing game: A guessing game in which a player selects the color that they think matches the RGB value listed in the title above.
 	---
 
 <div class="img_row" style="height:380px">
@@ -27,7 +27,7 @@ live link: <a href="http://choihyew.dev.fast.sheridanc.on.ca/GamePack/" target="
 <div class="col three caption">
 	Casino Craps
 </div>
-The player can roll dices to make the "natural", or win after getting the "point". 
+The player can roll dice to make the "natural", or win after getting the "point". 
 <br>
 
 <div class="img_row" style="height:360px">
@@ -37,7 +37,7 @@ The player can roll dices to make the "natural", or win after getting the "point
 <div class="col three caption">
 	TicTacToe
 </div>
-Two players take turns marking X and O in a 3*3 grid. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins the game. The result will be shown on right side on menu bar. If nobody can make it, the game is a draw.
+Two players take turns marking X and O in a 3*3 grid. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins the game. The result will be shown on the right side on the menu bar. If nobody can make it, the game is a draw.
 <br>
 
 <div class="img_row" style="height:360px">
@@ -47,7 +47,7 @@ Two players take turns marking X and O in a 3*3 grid. The player who succeeds in
 <div class="col three caption">
 	Pick A Pair
 </div>
-A player is given 10 secs to memorize the cards before starting a game. The plaing time is shown on right side on menu bar. 
+A player is given 10 secs to memorize the cards before starting a game. The playing time is shown on the right side on the menu bar. 
 <br>
 
 <div class="img_row" style="height:380px">

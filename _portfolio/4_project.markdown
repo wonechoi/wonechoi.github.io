@@ -5,7 +5,7 @@ description: A Mobile shop of a beer store
 img: /img/BeerMore/Main.jpg 
 ---
 
-A Mobile shop sells various kind of beers. 
+A Mobile shop sells various kinds of beers. 
 
 live link: <a href="http://choihyew.dev.fast.sheridanc.on.ca/Beer%20Store/beerstore.html" target="_blank"> BeerMore </a>
 
@@ -33,7 +33,7 @@ Main page illustrates the catchphrase and the location of the offline shop. Abou
 <div class="col three caption">
 	Shopping pages 
 </div>
-There are three subcategories of beer type. A customer can add items to their cart by just tapping beer on screen. The number on cart icon shows the number of beers which a customer have chosen.
+There are three subcategories of beer type. A customer can add items to their cart by just tapping beer on the screen. The number on the cart icon shows the number of beers which a customer has chosen.
 <br>
 
 <div class="img_row" style="height: 460px">
@@ -43,7 +43,7 @@ There are three subcategories of beer type. A customer can add items to their ca
 <div class="col three caption">
 	Cart page
 </div>
-The mobile store provides the cart function. Before checkout, customers can adjust quantities of each of beers
+The mobile store provides the cart function. Before checkout, customers can adjust quantities of each of the beers.
 <br>
 
 <div class="img_row" style="height: 460px; vertical-align:middle; text-align:center">
@@ -52,5 +52,5 @@ The mobile store provides the cart function. Before checkout, customers can adju
 <div class="col three caption">
 	My order page
 </div>
-My order page shows each customer's order information. By clicking red "Order details", a customer can see beer list they ordered.
+My order page shows each customer's order information. By clicking red "Order details", a customer can see the beer they ordered listed.
 <br>
