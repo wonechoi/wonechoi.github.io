@@ -3,11 +3,9 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-<div class="col two" style="padding:1%;" >
-	<img src="/img/about_pic.jpg">
-</div>
-<div class="col one">
+<div>
+<img class="col one" style="padding:1%;" src="/img/about_pic.jpg">
+<div class="col two">
 <h2>
 <strong>
 	I'm a <br>
@@ -17,7 +15,7 @@ permalink: /about/
 </strong>
 </h2>
 </div>
-<div>
+</div>
 <br>
 <br>
 Hello! I am Hyewon, a full-stack developer from South Korea.<br>
@@ -30,7 +28,7 @@ Currently, I'm studying Computer technician at Sheridan College. By focusing on 
 To me, programming is a means to creation, a way to bring the things we love to reality and into the hands of others. I don't have any doubt that IT is a way to change the world, or at least, make it better!
 <br><br>
 If you want to know more about me, feel free to contact me!
-</div>
+
 
 <hr/>
 <br/>
