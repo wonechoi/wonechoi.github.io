@@ -5,7 +5,7 @@ permalink: /about/
 ---
 <div>
 <img class="col two" style="padding:1%;" src="/img/about_pic.jpg">
-<div class="col two">
+<div class="col one">
 <h2>
 <strong>
 	I'm a <br><br>
