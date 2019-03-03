@@ -4,13 +4,13 @@ title: About
 permalink: /about/
 ---
 <div>
-<img class="col one" style="padding:1%;" src="/img/about_pic.jpg">
+<img class="col two" style="padding:1%;" src="/img/about_pic.jpg">
 <div class="col two">
 <h2>
 <strong>
-	I'm a <br>
-	<font color="#ff6868">Curious explorer,</font> <br>
-	<font color="#00c3bd">Logical problem solver,</font> <br>
+	I'm a <br><br>
+	<font color="#ff6868">Curious explorer,</font> <br><br>
+	<font color="#00c3bd">Logical problem solver,</font> <br><br>
 	and a really good friend.	
 </strong>
 </h2>
