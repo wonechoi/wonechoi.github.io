@@ -4,19 +4,27 @@ title: About
 permalink: /about/
 ---
 
-<!--<img class="col one right" style="margin-left:3%;" src="/img/prof_pic.jpg">
--->
-<br/>
-Hello! I am Hyewon, a full-stack developer.
+<img class="col two" style="padding-left:3%;" src="/img/prof_pic.jpg">
+<div class="col one">
+<h2>
+<strong>
+	I'm a <br>
+	<font color="#ff6868">Curious explorer,</font> <br>
+	<font color="#00c3bd">Logical problem solver,</font> <br>
+	and a really good friend.	
+</strong>
+</h2>
+</div>
+<br>
+<br>
+Hello! I am Hyewon, a full-stack developer from South Korea.<br>
+I started my journey into programming 10 years ago. I majored Computer Science at the university in my country  and worked as a DevOps developer in Samsung SDS over 3 years. 
 <br><br>
-I originated from Seoul, South Korea in the far west. Now I live in Oakville, in th GsTA (Great Toronto Area). I moved from Seoul to here not only for broadening my professional experience but for expanding my cultural horizons.
+After my previous professional experience, I wandered around the world. I had traveled from the wilds sleeping in the Milky Way to Asia where history breaths, Europe, where the art is flowing, and North America, where modern culture is concentrated. Finally, I have settled down in Canada after staying in Calgary for 4 months.
 <br><br>
-I have 3+ years experience working as a full-stack developer.
-Currently, I study Computer technician at Sheridan College. By focusing on my majors here again, not only did I regain my programming skills but also I could have many opportunities to exchange opinions in English about the IT field.  
+Currently, I'm studying Computer technician at Sheridan College. By focusing on my majors here again, not only did I regain my programming skills but also I could have many opportunities to exchange opinions in English about the IT field. 
 <br><br>
-Since I have always been a passionate problem solver, working as a developer is a lot of fun. Especially, I love to work as a team with others. It makes me feel engaged in my work, energized, and motivated to do better. 
-<br><br>
-Outside of my job, you will find me a traveler roaming about the world. I have visited over 30 countries. I have become a more open-mided person. It's always amazing to expose myself to new places, food, and cultures.
+To me, programming is a means to creation, a way to bring the things we love to reality and into the hands of others. I don't have any doubt that IT is a way to change the world, or at least, make it better!
 <br><br>
 If you want to know more about me, feel free to contact me!
 
