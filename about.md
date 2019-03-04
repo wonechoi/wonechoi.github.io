@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-<div>
+<div style="height:440px;">
 <img class="col two" style="padding:1%;" src="/img/about_pic.jpg">
 <div class="col one">
 <h2>
