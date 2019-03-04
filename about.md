@@ -5,13 +5,13 @@ permalink: /about/
 ---
 <div style="height:440px;">
 <img class="col two" style="padding:1%;" src="/img/about_pic.jpg">
-<div class="col one" style="padding-top:1%;">
+<div class="col one" style="padding-top:2%; line-height: 2em;">
 <h2>
 <strong>
 	I'm a <br><br>
 	<font color="#ff6868">Curious<br> Explorer,</font> <br><br>
 	<font color="#00c3bd">Logical<br> Problem<br> Solver,</font> <br><br>
-	and <br>Really<br> Good<br> Friend.	
+	and a <br>Really<br> Good<br> Friend.	
 </strong>
 </h2>
 </div>
