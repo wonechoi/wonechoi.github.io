@@ -5,18 +5,17 @@ permalink: /about/
 ---
 <div style="height:440px;">
 <img class="col two" style="padding:1%;" src="/img/about_pic.jpg">
-<div class="col one">
+<div class="col one" style="padding-top:1%;">
 <h2>
 <strong>
 	I'm a <br><br>
-	<font color="#ff6868">Curious explorer,</font> <br><br>
-	<font color="#00c3bd">Logical problem solver,</font> <br><br>
-	and a really good friend.	
+	<font color="#ff6868">Curious<br> Explorer,</font> <br><br>
+	<font color="#00c3bd">Logical<br> Problem<br> Solver,</font> <br><br>
+	and <br>Really<br> Good<br> Friend.	
 </strong>
 </h2>
 </div>
 </div>
-<br>
 <br>
 Hello! I am Hyewon, a full-stack developer from South Korea.<br>
 I started my journey into programming 10 years ago. I majored Computer Science at the university in my country  and worked as a DevOps developer in Samsung SDS over 3 years. 
