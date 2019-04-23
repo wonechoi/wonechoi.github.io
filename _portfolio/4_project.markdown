@@ -1,56 +1,69 @@
 ---
 layout: post
-title: BeerMore
-description: A Mobile shop of a beer store  
-img: /img/BeerMore/Main.jpg 
+title: Game Pack 
+description: Five different casual games
+img: /img/GamePack/Main.jpg
 ---
 
-A Mobile shop sells various kinds of beers. 
+Casino Craps, TicTacToe, Pick A Pair, HangMan, and ColorPicker.
 
-live link: <a href="http://choihyew.dev.fast.sheridanc.on.ca/Beer%20Store/beerstore.html" target="_blank"> BeerMore </a>
+live link: <a href="http://choihyew.dev.fast.sheridanc.on.ca/GamePack/" target="_blank"> Game Pack</a> <br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://choihyew.dev.fast.sheridanc.on.ca/RGBGuessingGame/ColorGame.html" target="_blank"> RGB Guessing Game</a>
 
 	---
-	The team project in Mobile Web-Based Application Development class
-	Languages: HTML, CSS, Javascript, Bootstrap, JQuery Mobile, Ajax, Json, google map API
-	Features: Shopping, Cart check out, My order list
+	The individual project in Web Programming class 
+	Languages: HTML, CSS, Javascript, Bootstrap
+	Features
+	- Casino Craps: A dice game in which the player makes wagers on the outcome of the couple of rolls.
+	- TicTacToe: A player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins the game in a 3*3 grid.
+	- Pick A Pair: A memory game in which the player turns over pairs of matching cards. 
+	- HangMan: A player must guess a secret word before the hangman is hung.
+	- RGB guessing game: A guessing game in which a player selects the color that they think matches the RGB value listed in the title above.
 	---
 
-<div class="img_row" style="height:460px;">
-	<a href="{{ site.baseurl }}/img/BeerMore/Main1.jpg" target="_blank"><img class="col one" style="height:460px; object-fit:contain;" src="{{ site.baseurl }}/img/BeerMore/Main1.jpg" alt="" title="Main1"/></a>
-	<a href="{{ site.baseurl }}/img/BeerMore/Main2.jpg" target="_blank"><img class="col one" style="height:460px; object-fit:contain;" src="{{ site.baseurl }}/img/BeerMore/Main2.jpg" alt="" title="Main2"/></a>
-	<a href="{{ site.baseurl }}/img/BeerMore/About.jpg" target="_blank"><img class="col one" style="height:460px; object-fit:contain;" src="{{ site.baseurl }}/img/BeerMore/About.jpg" alt="" title="About"/></a>
+<div class="img_row" style="height:380px">
+	<a href="{{ site.baseurl }}/img/GamePack/CasinoCraps.jpg" target="_blank"><img class="col three" style="height:400px" src="{{ site.baseurl }}/img/GamePack/CasinoCraps.jpg" alt="" title="CasinoCraps"/></a>
 </div>
 <div class="col three caption">
-	Main page and About page
+	Casino Craps
 </div>
-Main page illustrates the catchphrase and the location of the offline shop. About page explains about the brand.
+The player can roll dice to make the "natural", or win after getting the "point". 
 <br>
 
-<div class="img_row" style="height: 460px">
-	<a href="{{ site.baseurl }}/img/BeerMore/Shop1.jpg" target="_blank"><img class="col one" style="width:50%; height:460px; object-fit:contain;" src="{{ site.baseurl }}/img/BeerMore/Shop1.jpg" alt="" title="Shop1"/></a>
-	<a href="{{ site.baseurl }}/img/BeerMore/Shop2.jpg" target="_blank"><img class="col one" style="width:50%; height:460px; object-fit:contain;" src="{{ site.baseurl }}/img/BeerMore/Shop2.jpg" alt="" title="Shop2"/></a>
+<div class="img_row" style="height:360px">
+	<a href="{{ site.baseurl }}/img/GamePack/TicTacToe1.jpg" target="_blank"><img class="col one" style="width:50%; height:360px" src="{{ site.baseurl }}/img/GamePack/TicTacToe1.jpg" alt="" title="TicTacToe1"/></a>
+	<a href="{{ site.baseurl }}/img/GamePack/TicTacToe2.jpg" target="_blank"><img class="col one" style="width:50%; height:360px" src="{{ site.baseurl }}/img/GamePack/TicTacToe2.jpg" alt="" title="TicTacToe2"/></a>
 </div>
 <div class="col three caption">
-	Shopping pages 
+	TicTacToe
 </div>
-There are three subcategories of beer type. A customer can add items to their cart by just tapping beer on the screen. The number on the cart icon shows the number of beers which a customer has chosen.
+Two players take turns marking X and O in a 3*3 grid. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins the game. The result will be shown on the right side on the menu bar. If nobody can make it, the game is a draw.
 <br>
 
-<div class="img_row" style="height: 460px">
-	<a href="{{ site.baseurl }}/img/BeerMore/Cart1.jpg" target="_blank"><img class="col one" style="width:50%; height:460px; object-fit:contain;" src="{{ site.baseurl }}/img/BeerMore/Cart1.jpg" alt="" title="Cart1"/></a>
-	<a href="{{ site.baseurl }}/img/BeerMore/Cart2.jpg" target="_blank"><img class="col one" style="width:50%; height:460px; object-fit:contain;" src="{{ site.baseurl }}/img/BeerMore/Cart2.jpg" alt="" title="Cart2"/></a>
+<div class="img_row" style="height:360px">
+	<a href="{{ site.baseurl }}/img/GamePack/PickAPair1.jpg" target="_blank"><img class="col one" style="width:50%; height:360px" src="{{ site.baseurl }}/img/GamePack/PickAPair1.jpg" alt="" title="PickAPair1"/></a>
+	<a href="{{ site.baseurl }}/img/GamePack/PickAPair2.jpg" target="_blank"><img class="col one" style="width:50%; height:360px" src="{{ site.baseurl }}/img/GamePack/PickAPair2.jpg" alt="" title="PickAPair2"/></a>
 </div>
 <div class="col three caption">
-	Cart page
+	Pick A Pair
 </div>
-The mobile store provides the cart function. Before checkout, customers can adjust quantities of each of the beers.
+A player is given 10 secs to memorize the cards before starting a game. The playing time is shown on the right side on the menu bar. 
 <br>
 
-<div class="img_row" style="height: 460px; vertical-align:middle; text-align:center">
-	<a href="{{ site.baseurl }}/img/BeerMore/MyOrder.jpg" target="_blank"><img class="col three" style="width:50%; height:460px; object-fit:contain; float:initial; margin-left:auto; margin-right:auto;" src="{{ site.baseurl }}/img/BeerMore/MyOrder.jpg" alt="" title="MyOrder"/></a>
+<div class="img_row" style="height:380px">
+	<a href="{{ site.baseurl }}/img/GamePack/HangMan.jpg" target="_blank"><img class="col three" style="height:380px" src="{{ site.baseurl }}/img/GamePack/HangMan.jpg" alt="" title="HangMan"/></a>
 </div>
 <div class="col three caption">
-	My order page
+	Hang Man
 </div>
-My order page shows each customer's order information. By clicking red "Order details", a customer can see the beer they ordered listed.
+A player must guess a word by suggesting letters, within 10 lives. If the chances run out, The player hangs.
+<br>
+
+<div class="img_row" style="height:380px">
+	<a href="{{ site.baseurl }}/img/GamePack/ColorPicker.jpg" target="_blank"><img class="col three" style="height:380px" src="{{ site.baseurl }}/img/GamePack/ColorPicker.jpg" alt="" title="ColorPicker"/></a>
+</div>
+<div class="col three caption">
+	RGB guessing game
+</div>
+A player tries to guess the right color for the RGB code shown above. There are two difficulty levels in the game: Easy and Hard. The easy mode shows three options while the hard mode has six options. 
 <br>

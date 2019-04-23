@@ -1,69 +1,45 @@
 ---
 layout: post
-title: Game Pack 
-description: Five different casual games
-img: /img/GamePack/Main.jpg
+title: NYU Stern Survey
+description: A Survey about consumers in the soft drink market
+img: /img/Survey/surveyMain.jpg
 ---
 
-Casino Craps, TicTacToe, Pick A Pair, HangMan, and ColorPicker.
+This survey is designed to gather information on how consumers' preferences and behaviors change with various senarios and the order of randomly placed beverages.
 
-live link: <a href="http://choihyew.dev.fast.sheridanc.on.ca/GamePack/" target="_blank"> Game Pack</a> <br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://choihyew.dev.fast.sheridanc.on.ca/RGBGuessingGame/ColorGame.html" target="_blank"> RGB Guessing Game</a>
+live link: <a href="http://choihyew.dev.fast.sheridanc.on.ca/nyu_survey_201811/pages/q1.php" target="_blank"> nyu_survey_201811</a>
 
 	---
-	The individual project in Web Programming class 
-	Languages: HTML, CSS, Javascript, Bootstrap
-	Features
-	- Casino Craps: A dice game in which the player makes wagers on the outcome of the couple of rolls.
-	- TicTacToe: A player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins the game in a 3*3 grid.
-	- Pick A Pair: A memory game in which the player turns over pairs of matching cards. 
-	- HangMan: A player must guess a secret word before the hangman is hung.
-	- RGB guessing game: A guessing game in which a player selects the color that they think matches the RGB value listed in the title above.
+	Worked as a freelancer at NYU Stern
+	Duration: November 2018
+	Languages: HTML, CSS, Javascript, JQuery, Bootstrap / PHP, MySQL
 	---
 
-<div class="img_row" style="height:380px">
-	<a href="{{ site.baseurl }}/img/GamePack/CasinoCraps.jpg" target="_blank"><img class="col three" style="height:400px" src="{{ site.baseurl }}/img/GamePack/CasinoCraps.jpg" alt="" title="CasinoCraps"/></a>
+
+<div class="img_row">
+	<a href="{{ site.baseurl }}/img/Survey/surveyPage1.jpg" target="_blank"><img class="col one" src="{{ site.baseurl }}/img/Survey/surveyPage1.jpg" alt="" title="First page"/></a>
+	<a href="{{ site.baseurl }}/img/Survey/surveyPage2.jpg" target="_blank"><img class="col one" src="{{ site.baseurl }}/img/Survey/surveyPage2.jpg" alt="" title="Middle page"/></a>
+	<a href="{{ site.baseurl }}/img/Survey/surveyPage3.jpg" target="_blank"><img class="col one" src="{{ site.baseurl }}/img/Survey/surveyPage3.jpg" alt="" title="End Page"/></a>
 </div>
-<div class="col three caption">
-	Casino Craps
+<div class="col three caption" style="margin-bottom:5px">
+	15+ different pages designed responsive to any screen sizes comprise the survey.
 </div>
-The player can roll dice to make the "natural", or win after getting the "point". 
+<p>To prevent from misuse or abuse of the survey, a session checks the page and ensures the respondent should proceed and is directed to the next page only.	Any responses, even when respondents quit in the middle of survey, are saved in MySQL databases to be analyzed. 
+</p>
 <br>
 
-<div class="img_row" style="height:360px">
-	<a href="{{ site.baseurl }}/img/GamePack/TicTacToe1.jpg" target="_blank"><img class="col one" style="width:50%; height:360px" src="{{ site.baseurl }}/img/GamePack/TicTacToe1.jpg" alt="" title="TicTacToe1"/></a>
-	<a href="{{ site.baseurl }}/img/GamePack/TicTacToe2.jpg" target="_blank"><img class="col one" style="width:50%; height:360px" src="{{ site.baseurl }}/img/GamePack/TicTacToe2.jpg" alt="" title="TicTacToe2"/></a>
+<div class="img_row" style="height:680px">
+	<a href="{{ site.baseurl }}/img/Survey/surveyScn1.jpg" target="_blank"><img class="col three" src="{{ site.baseurl }}/img/Survey/surveyScn1.jpg" alt="" title="Scenario 1" style="height:680px"/></a>
+</div>
+<div class="img_row" style="height:680px">
+	<a href="{{ site.baseurl }}/img/Survey/surveyScn2.jpg" target="_blank"><img class="col three" src="{{ site.baseurl }}/img/Survey/surveyScn2.jpg" alt="" title="Scenario 2" style="height:680px"/></a>
 </div>
 <div class="col three caption">
-	TicTacToe
+	5 scenarios per survey are picked from a random pool, with soft drinks arranged in random orders as well.
 </div>
-Two players take turns marking X and O in a 3*3 grid. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins the game. The result will be shown on the right side on the menu bar. If nobody can make it, the game is a draw.
+<p>
+A respondent adds soft drinks to the shopping cart within a limit instructed in each questions. Inserting the data considers the order in which a respondent put them into the cart.	
+</p>
 <br>
 
-<div class="img_row" style="height:360px">
-	<a href="{{ site.baseurl }}/img/GamePack/PickAPair1.jpg" target="_blank"><img class="col one" style="width:50%; height:360px" src="{{ site.baseurl }}/img/GamePack/PickAPair1.jpg" alt="" title="PickAPair1"/></a>
-	<a href="{{ site.baseurl }}/img/GamePack/PickAPair2.jpg" target="_blank"><img class="col one" style="width:50%; height:360px" src="{{ site.baseurl }}/img/GamePack/PickAPair2.jpg" alt="" title="PickAPair2"/></a>
-</div>
-<div class="col three caption">
-	Pick A Pair
-</div>
-A player is given 10 secs to memorize the cards before starting a game. The playing time is shown on the right side on the menu bar. 
-<br>
 
-<div class="img_row" style="height:380px">
-	<a href="{{ site.baseurl }}/img/GamePack/HangMan.jpg" target="_blank"><img class="col three" style="height:380px" src="{{ site.baseurl }}/img/GamePack/HangMan.jpg" alt="" title="HangMan"/></a>
-</div>
-<div class="col three caption">
-	Hang Man
-</div>
-A player must guess a word by suggesting letters, within 10 lives. If the chances run out, The player hangs.
-<br>
-
-<div class="img_row" style="height:380px">
-	<a href="{{ site.baseurl }}/img/GamePack/ColorPicker.jpg" target="_blank"><img class="col three" style="height:380px" src="{{ site.baseurl }}/img/GamePack/ColorPicker.jpg" alt="" title="ColorPicker"/></a>
-</div>
-<div class="col three caption">
-	RGB guessing game
-</div>
-A player tries to guess the right color for the RGB code shown above. There are two difficulty levels in the game: Easy and Hard. The easy mode shows three options while the hard mode has six options. 
-<br>
