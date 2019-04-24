@@ -26,7 +26,7 @@ github: <a href="https://github.com/wonechoi/PhoneBook" target="_blank">Phone Bo
   
 <strong>Disadvantage</strong>: a tree cannot save the same value. But a phone book should be able to have the same names. I consist of the tree by the first name and allow to save the same first names, but not last names. Before adding a new contact, the program checks if there is the same full name. When a search for contacts by a first name, the program continues the search under its subtree after finding a contact. Same first name can be in the right part of its left child or in the left part of its right child.  <br><br>  
 </p>  
-<p>Now that I think about it.. my best idea to struct contacts is a tree by the full name and each node can have several contacts connected by linked lists.</p>
+<p>Now that I think about it.. my best idea to struct contacts is a tree features that its nodes can have several contacts have same first name, connected by linked lists.</p>
 <div class="img_row" style="height:360px">
 	<a href="{{ site.baseurl }}/img/PhoneBook/Main1.jpg" target="_blank"><img class="col one" style="width:50%; height:360px" src="{{ site.baseurl }}/img/PhoneBook/Main1.jpg"/></a>
 	<a href="{{ site.baseurl }}/img/PhoneBook/Main2.jpg" target="_blank"><img class="col one" style="width:50%; height:360px" src="{{ site.baseurl }}/img/PhoneBook/Main2.jpg"/></a>
@@ -39,21 +39,49 @@ How to use:<br>-r retrieve data with followed firstname.<br>-s show all contacts
 </p>
 <br>
 
-<div class="img_row">
-	<a href="{{ site.baseurl }}/img/Survey/surveyPage1.jpg" target="_blank"><img class="col one" src="{{ site.baseurl }}/img/Survey/surveyPage1.jpg" alt="" title="First page"/></a>
-	<a href="{{ site.baseurl }}/img/Survey/surveyPage2.jpg" target="_blank"><img class="col one" src="{{ site.baseurl }}/img/Survey/surveyPage2.jpg" alt="" title="Middle page"/></a>
-	<a href="{{ site.baseurl }}/img/Survey/surveyPage3.jpg" target="_blank"><img class="col one" src="{{ site.baseurl }}/img/Survey/surveyPage3.jpg" alt="" title="End Page"/></a>
+<div class="img_row" style="height:360px">
+	<a href="{{ site.baseurl }}/img/PhoneBook/SearchData1.jpg" target="_blank"><img class="col one" style="width:50%; height:360px" src="{{ site.baseurl }}/img/PhoneBook/SearchData1.jpg"/></a>
+	<a href="{{ site.baseurl }}/img/PhoneBook/SearchData2.jpg" target="_blank"><img class="col one" style="width:50%; height:360px" src="{{ site.baseurl }}/img/PhoneBook/SearchData2.jpg"/></a>
 </div>
-<div class="col three caption" style="margin-bottom:5px">
-	15+ different pages designed responsive to any screen sizes comprise the survey.
+<div class="col three caption">
+	Search contacts by a first name. 
 </div>
-<p>To prevent from misuse or abuse of the survey, a session checks the page and ensures the respondent should proceed and is directed to the next page only.	Any responses, even when respondents quit in the middle of survey, are saved in MySQL databases to be analyzed. 
+<p>
+command: -rharry<br>
+The program lists contacts which have a same first name. And it shows additional menus.
 </p>
 <br>
 
 <div class="img_row" style="height:360px">
-	<a href="{{ site.baseurl }}/img/PhoneBook/ShowList1.jpg" target="_blank"><img class="col one" style="width:50%; height:360px" src="{{ site.baseurl }}/img/PhoneBook/ShowList1.jpg"/></a>
-	<a href="{{ site.baseurl }}/img/PhoneBook/ShowList2.jpg" target="_blank"><img class="col one" style="width:50%; height:360px" src="{{ site.baseurl }}/img/PhoneBook/ShowList2.jpg"/></a>
+	<a href="{{ site.baseurl }}/img/PhoneBook/EditData1.jpg" target="_blank"><img class="col one" style="width:50%; height:360px" src="{{ site.baseurl }}/img/PhoneBook/EditData1.jpg"/></a>
+	<a href="{{ site.baseurl }}/img/PhoneBook/EditData2.jpg" target="_blank"><img class="col one" style="width:50%; height:360px" src="{{ site.baseurl }}/img/PhoneBook/EditData2.jpg"/></a>
+</div>
+<div class="col three caption">
+	Edit a contact 
+</div>
+<p>
+command: -eharry,porter/malfoy,draco,28372617372<br>
+The program checks if the old full name has existed and the new full name does not exist. Then, it deletes old data after insert new data. Or it shows an error message.
+</p>
+<br>
+
+<div class="img_row" style="height:360px">
+	<a href="{{ site.baseurl }}/img/PhoneBook/DeleteData1.jpg" target="_blank"><img class="col one" style="width:50%; height:360px" src="{{ site.baseurl }}/img/PhoneBook/DeleteData1.jpg"/></a>
+	<a href="{{ site.baseurl }}/img/PhoneBook/DeleteData2.jpg" target="_blank"><img class="col one" style="width:50%; height:360px" src="{{ site.baseurl }}/img/PhoneBook/DeleteData2.jpg"/></a>
+</div>
+<div class="col three caption">
+	Delete a contact 
+</div>
+<p>
+command: -dharry,williams<br>
+The program deletes the data. Or it shows an error message.
+</p>
+<br>
+
+<div class="img_row" style="height:360px">
+	<a href="{{ site.baseurl }}/img/PhoneBook/ShowList1.jpg" target="_blank"><img class="col one" style="height:360px" src="{{ site.baseurl }}/img/PhoneBook/ShowList1.jpg"/></a>
+	<a href="{{ site.baseurl }}/img/PhoneBook/ShowList2.jpg" target="_blank"><img class="col one" style="height:360px" src="{{ site.baseurl }}/img/PhoneBook/ShowList2.jpg"/></a>
+	<a href="{{ site.baseurl }}/img/PhoneBook/ShowList3.jpg" target="_blank"><img class="col one" style="height:360px" src="{{ site.baseurl }}/img/PhoneBook/ShowList3.jpg"/></a>
 </div>
 <div class="col three caption">
 	Show all contacts. 
@@ -89,4 +117,28 @@ command: -lNEWCONTACTS.txt
 </p>
 <br>
 
+<div class="img_row" style="height:360px">
+	<a href="{{ site.baseurl }}/img/PhoneBook/WriteData1.jpg" target="_blank"><img class="col one" style="width:50%; height:360px" src="{{ site.baseurl }}/img/PhoneBook/WriteData1.jpg"/></a>
+	<a href="{{ site.baseurl }}/img/PhoneBook/WriteData2.jpg" target="_blank"><img class="col one" style="width:50%; height:360px" src="{{ site.baseurl }}/img/PhoneBook/WriteData2.jpg"/></a>
+</div>
+<div class="col three caption">
+	Write all contacts to a file. 
+</div>
+<p>
+command: -wnewfile.txt<br>
+It visits every node in the tree by pre-order to list data.
+</p>
+<br>
+
+<div class="img_row" style="height:360px">
+	<a href="{{ site.baseurl }}/img/PhoneBook/Exit.jpg" target="_blank"><img class="col three" style="width:50%; height:360px" src="{{ site.baseurl }}/img/PhoneBook/Exit.jpg"/></a>
+</div>
+<div class="col three caption">
+	Exit the program.
+</div>
+<p>
+command: -e<br>
+If any data has been added, edited or deleted while the program is on, the program reflects the changes to the current phone book file.
+</p>
+<br>
 
