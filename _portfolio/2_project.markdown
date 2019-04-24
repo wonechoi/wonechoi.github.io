@@ -2,7 +2,7 @@
 layout: post
 title: Phone Book 
 description: developed with C language and an AVL tree structure
-img: /img/PhoneBook/phoneBookMain.jpg
+img: /img/PhoneBook/PhoneBookMain.jpg
 ---
 
 This phone book project is designed to show knowledge kinds of collections and structures in C language.
