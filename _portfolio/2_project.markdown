@@ -26,7 +26,7 @@ github: <a href="https://github.com/wonechoi/PhoneBook" target="_blank">Phone Bo
   
 <strong>Disadvantage</strong>: a tree cannot save the same value. But a phone book should be able to have the same names. I consist of the tree by the first name and allow to save the same first names, but not last names. Before adding a new contact, the program checks if there is the same full name. When a search for contacts by a first name, the program continues the search under its subtree after finding a contact. Same first name can be in the right part of its left child or in the left part of its right child.  <br><br>  
 </p>  
-<p>Now that I think about it.. my best idea to struct contacts is a tree features that its nodes can have several contacts have same first name, connected by linked lists.</p>
+<p>Now that I think about this.. it is a better idea to struct contacts in a tree which have a feature that its nodes can have several contacts have a same first name, connected by linked lists.</p>
 <div class="img_row" style="height:360px">
 	<a href="{{ site.baseurl }}/img/PhoneBook/Main1.jpg" target="_blank"><img class="col one" style="width:50%; height:360px" src="{{ site.baseurl }}/img/PhoneBook/Main1.jpg"/></a>
 	<a href="{{ site.baseurl }}/img/PhoneBook/Main2.jpg" target="_blank"><img class="col one" style="width:50%; height:360px" src="{{ site.baseurl }}/img/PhoneBook/Main2.jpg"/></a>
