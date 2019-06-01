@@ -17,12 +17,12 @@ permalink: /about/
 </div>
 </div>
 <br>
-Hello! I am Hyewon, a full-stack developer from South Korea.<br>
+Hello! I am Hyewon, a Back-end(Java) engineer from South Korea.<br>
 I started my journey into programming 10 years ago. I majored Computer Science at the university in my country  and worked as a DevOps developer in Samsung SDS over 3 years. 
 <br><br>
 After my previous professional experience, I wandered around the world. I had traveled from the wilds sleeping in the Milky Way to Asia where history breaths, Europe, where the art is flowing, and North America, where modern culture is concentrated. Finally, I have settled down in Canada after staying in Calgary for 4 months.
 <br><br>
-Currently, I'm studying Computer technician at Sheridan College. By focusing on my majors here again, not only did I regain my programming skills but also I could have many opportunities to exchange opinions in English about the IT field. 
+Recently, I studied Computer technician at Sheridan College. By focusing on my majors here again, not only did I regain my programming skills but also I could have many opportunities to exchange opinions in English about the IT field. 
 <br><br>
 To me, programming is a means to creation, a way to bring the things we love to reality and into the hands of others. I don't have any doubt that IT is a way to change the world, or at least, make it better!
 <br><br>
